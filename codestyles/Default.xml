@@ -1,4 +1,8 @@
 <code_scheme name="Default" version="173">
+  <JSON>
+    <option name="OBJECT_WRAPPING" value="5" />
+    <option name="ARRAY_WRAPPING" value="5" />
+  </JSON>
   <PHPCodeStyleSettings>
     <option name="CONCAT_SPACES" value="false" />
     <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
@@ -17,6 +21,7 @@
     <option name="ENABLED" value="false" />
   </editorconfig>
   <codeStyleSettings language="JSON">
+    <option name="SPACE_WITHIN_BRACES" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
     </indentOptions>
