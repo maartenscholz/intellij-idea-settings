@@ -6,6 +6,7 @@
       <mapping pattern="deploy" type="PLAIN_TEXT" />
       <mapping pattern="phpstan" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="smoke" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
