@@ -3,6 +3,7 @@
     <option value="file://$USER_HOME$/Code/Flexmail/flexmail-local-cloud/docker-compose.yml" />
   </component>
   <component name="DockerSettings">
+    <option name="dockerComposePath" value="/usr/local/bin/docker-compose" />
     <option name="dockerMachinePath" value="docker-machine" />
   </component>
 </application>
